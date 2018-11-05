@@ -1,8 +1,4 @@
-body {
+body{
     display: flex;
-    align-items: center;
-}
-h2{
-    width: 100%;
-    align-content: center;
+    justify-content: center;
 }
